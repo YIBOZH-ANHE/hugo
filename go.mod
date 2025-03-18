@@ -10,16 +10,17 @@ require (
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.6.0
 	github.com/bep/goat v0.5.0
-	github.com/bep/godartsass/v2 v2.3.2
+	github.com/bep/godartsass/v2 v2.4.0
 	github.com/bep/golibsass v1.2.0
+	github.com/bep/goportabletext v0.1.0
 	github.com/bep/gowebp v0.3.0
 	github.com/bep/helpers v0.5.0
-	github.com/bep/imagemeta v0.8.4
-	github.com/bep/lazycache v0.7.0
+	github.com/bep/imagemeta v0.9.0
+	github.com/bep/lazycache v0.8.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/mclib v1.20400.20402
-	github.com/bep/overlayfs v0.9.2
-	github.com/bep/simplecobra v0.5.0
+	github.com/bep/overlayfs v0.10.0
+	github.com/bep/simplecobra v0.6.0
 	github.com/bep/tmc v0.5.1
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/clbanning/mxj/v2 v2.7.0
@@ -43,7 +44,7 @@ require (
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v1.0.1
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/hairyhenderson/go-codeowners v0.7.0
 	github.com/jdkato/prose v1.2.1
@@ -60,7 +61,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
-	github.com/rogpeppe/go-internal v1.13.1
+	github.com/rogpeppe/go-internal v1.14.1
 	github.com/sanity-io/litter v1.5.8
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/cast v1.7.1
@@ -69,17 +70,17 @@ require (
 	github.com/spf13/pflag v1.0.6
 	github.com/tdewolff/minify/v2 v2.20.37
 	github.com/tdewolff/parse/v2 v2.7.15
-	github.com/tetratelabs/wazero v1.8.2
+	github.com/tetratelabs/wazero v1.9.0
 	github.com/yuin/goldmark v1.7.8
-	github.com/yuin/goldmark-emoji v1.0.4
+	github.com/yuin/goldmark-emoji v1.0.5
 	go.uber.org/automaxprocs v1.5.3
 	gocloud.dev v0.40.0
 	golang.org/x/exp v0.0.0-20221031165847-c99f073a8326
-	golang.org/x/image v0.24.0
-	golang.org/x/mod v0.23.0
+	golang.org/x/image v0.25.0
+	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.35.0
-	golang.org/x/sync v0.11.0
-	golang.org/x/text v0.22.0
+	golang.org/x/sync v0.12.0
+	golang.org/x/text v0.23.0
 	golang.org/x/tools v0.30.0
 	google.golang.org/api v0.221.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -171,4 +172,4 @@ require (
 	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
 
-go 1.23
+go 1.23.0
